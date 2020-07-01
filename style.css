@@ -760,9 +760,6 @@ body{
         flex-wrap: wrap;
         justify-content: center;
     }
-    .address {
-        padding-right: 3rem;
-    }
     .header-logo {
         padding-bottom: 3rem;
     }
